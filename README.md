@@ -1,16 +1,26 @@
-## Hi there 👋
+ Olá, eu sou Rafael Rosa
 
-<!--
-**stringer0/stringer0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Estudante de Desenvolvimento Front-end, focado em HTML, CSS e futuramente JavaScript.
 
-Here are some ideas to get you started:
+🚀 Sobre mim
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Sou um desenvolvedor front-end em formação, atualmente focado em HTML e CSS, Gosto de aprender na prática através de desafios e projetos reais, buscando sempre evoluir um pouco a cada dia.
+Meu objetivo é conquistar minha primeira oportunidade na área de desenvolvimento e crescer profissionalmente no front-end.
+
+Estudando:
+
+desenvolvimento web
+
+Atualmente focado em HTML5, CSS3 e Hardware
+
+Aprendendo através de cursos e desafios práticos
+
+🛠️ Tecnologias que estou aprendendo
+
+HTML5
+
+CSS3
+
+Git & GitHub
+
+(em breve) JavaScript
