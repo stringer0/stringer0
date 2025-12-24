@@ -30,3 +30,9 @@ Aprendendo por meio de cursos e desafios práticos.
 - CSS3  
 - Git & GitHub  
 - *(em breve)* JavaScript
+
+## 📫 Contato
+
+- 💼 LinkedIn: https://www.linkedin.com/in/rafael-silva-9b594b39b/
+- 📧 Email: rafaelmohamed16012004@gmail.com
+- 💻 GitHub: https://github.com/stringer0
